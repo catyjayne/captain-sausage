@@ -12,5 +12,11 @@
   height: 600px;
 }
 
- .header {font-family: "Roboto", sans-serif; color: white; font-size: 50px; text-align: center;
+ .text {font-family: "Roboto", sans-serif; color: white; text-align: center;
     }
+
+.h1 {font-size: 50px;
+}
+
+.p {font-size: 14px;
+}
