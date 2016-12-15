@@ -9,7 +9,7 @@
   text-align: center;
   background: url("http://cutlerandbayliss.co.uk/wp-content/uploads/2015/02/sausages.jpg") no-repeat center center;
   background-size: cover;
-  height: auto;
+  height: 100%;
 }
 
  .text {font-family: "Roboto", sans-serif; color: white; text-align: center;
