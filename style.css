@@ -12,7 +12,13 @@
   height: 100%;
 }
 
- .text {font-family: "Roboto", sans-serif; color: white; text-align: center;
+.info {
+    background: url("http://i.imgur.com/taoaXba.gif") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+}
+
+ .text {font-family: "Roboto", sans-serif; color: white;
     }
 
 .h1 {font-size: 50px; padding: 50px,0;
@@ -21,4 +27,9 @@
 .p {font-size: 14px;
 }
 
+.main-text {text-align: center
+}
+
+.list.text {text-align: right
+}
 
