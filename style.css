@@ -1,9 +1,9 @@
-<!--img {
+img {
     position: absolute;
     top: 0; bottom:0; left: 0; right:0;
     margin: auto;
 }
--->
+
 
 .main {
   text-align: center;
@@ -21,7 +21,7 @@
  .text {font-family: "Roboto", sans-serif; color: white;
     }
 
-.h1 {font-size: 50px; padding: 50px,0;
+.h1 {font-size: 50px; padding: 5rem; border: 5px; border-color: red;
 }
 
 .p {font-size: 14px;
